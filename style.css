@@ -24,6 +24,7 @@ body {
   background: linear-gradient(180deg, #a8b9d3, rgb(173, 227, 229));
 }
 .container {
+  padding:2%;
   height: 120px;
   width: 550px;
   position: relative;
